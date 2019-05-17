@@ -1,0 +1,1 @@
+<script src='https://cdn.statically.io/gh/gudangfirmware/convertersafelink.blogspot/97678d2b/scriptpemanggil.js' type='text/javascript'/> <script type='text/javascript'> protected_links = &quot;domain.com,blogspot.com,blogger.com,linkedin.com,facebook.com,twitter.com,google.com,feedburner.com&quot;; auto_safelink(); </script>
